@@ -2,7 +2,7 @@
 The information included at this repository is for educational purposes only
 
 # Description
-Get marketplace's data using free eBay's API
+Python client for free eBay's API
 
 # Requirements
 Python 3.x,
