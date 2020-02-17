@@ -1,3 +1,6 @@
+# Use of this Information
+The information included at this repository is for educational purposes only
+
 # Description
 Get marketplace's data using free eBay's API
 
